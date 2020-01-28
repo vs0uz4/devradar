@@ -25,8 +25,9 @@
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#créditos">Créditos</a>
 </p>
 
 <br>
@@ -54,18 +55,25 @@ Você pode baixar o layout do projeto no formato `.sketch` através [desse link]
 
 Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
 
-## Como contribuir
+## Como Contribuir
 
 - Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Cria uma branch com a sua feature:
+  > git checkout -b minha-feature
+- Faça commit das suas alterações:
+  > git commit -m 'feat: Minha nova feature'
+- Faça push para a sua branch:
+  > git push origin minha-feature
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+## Créditos
+
+Documentação levemente modificada com base na documentação original do projeto desenvolvida por [jpedroschmitz](https://github.com/jpedroschmitz) e [Rocketseat](https://github.com/Rocketseat).
 
 ---
 
