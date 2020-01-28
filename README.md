@@ -67,6 +67,11 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
+## A Fazer
+
+- Confecção/Troca da Imagem do Frontend;
+- Elaborar Documentação em outro(s) idioma(s)
+
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
